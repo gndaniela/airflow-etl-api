@@ -1,0 +1,3 @@
+[MESSAGES CONTROL]
+#Disable convention and refactor
+disable=R,C
